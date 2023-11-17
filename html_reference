@@ -31,7 +31,7 @@ function addNumbers() {
 <body>
 
 // 본인이 이름을 넣으세요
-<h1>Lanmda를 활용한 최소공배수 계산 실습</h1>
+<h1>Lanmda를 활용한 최소공배수 계산 실습 by 신범주</h1>
 
 <div>
   <input type="number" id="num1" placeholder="Enter first number">
