@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple AWS Architecture by Beomju Shin</title>
+<style>
+    body {
+        background-color: white;
+        color: black;
+        font-size: 50px;
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<p>CC coding exercise. AWS nginx web server.</p>
+<p>Beomju Shin.</p>
+</body>
+</html>
